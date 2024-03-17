@@ -1,0 +1,10 @@
+#PROYECTO 1 DE PROGRMACION III
+
+
+##DATOS GENERALES
+
+###NOMBRE: DORIAN RENATO MEJIA CHAY
+###CARNE: 7690-22-2776
+
+###CORRIDAS DEL PROGRAMA
+!(https://drive.google.com/drive/folders/1oil5H45LCojjur-CiFFmWZtraitg3qnW)
